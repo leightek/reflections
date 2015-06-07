@@ -1,0 +1,10 @@
+Question 1:
+What happens when you initialize a repository? Why do you need to do it?
+Thought:
+Initializes empty Git repository in the directory. Because the step is allowing further files tracking and Git commit.
+
+Question 2:
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Thought:
+The different from the working directory is the staging area has added the files for commit.  While the different from the repository is the staging area has the logical changes before commit. The value the staging area offers is that the logical changes are ready for commit or are able to be removed.
+
