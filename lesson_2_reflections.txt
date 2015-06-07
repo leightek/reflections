@@ -1,10 +1,21 @@
 Question 1:
 What happens when you initialize a repository? Why do you need to do it?
-Thought:
+Thoughts:
 Initializes empty Git repository in the directory. Because the step is allowing further files tracking and Git commit.
 
 Question 2:
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-Thought:
+Thoughts:
 The different from the working directory is the staging area has added the files for commit.  While the different from the repository is the staging area has the logical changes before commit. The value the staging area offers is that the logical changes are ready for commit or are able to be removed.
 
+Question 3:
+How can you use the staging area to make sure you have one commit per logical change?
+Thoughts:
+I will ensure all the files with the the logical change and complete changes to be added into the staging area before the commit.
+
+Question 4:
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Thoughts:
+Some situations are to keep the unofficial changes in git repository but not in master. Branches help to keep the unofficial changes for future mmerge into master when the changes becomes official.
+
+ 
