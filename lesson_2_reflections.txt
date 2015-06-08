@@ -23,4 +23,9 @@ How do the diagrams help you visualize the branch structure?
 Thoughts:
 The diagrams help to show the the commits a branch can or can't reach, and the commits not belonging to any branch.
 
+Question 6:
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Thoughts:
+The result is the changes of the two branches are merged into one commit. Because the way shows the relationship between commits and the branches.
+
  
