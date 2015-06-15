@@ -14,3 +14,8 @@ Thoughts:
 Fork is to keep a copy in GitHub server, clone is to keep a local copy, while branch is to keep the files in different location but same repository for version control.
 I use Fork for the repository without change permission, use the clone to copy other repository, and use branch to control file version.
 
+Question 4:
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Thoughts:
+The benefit is to know the comparison remote base for collaboration.
+
