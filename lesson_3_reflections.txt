@@ -24,3 +24,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Thoughts:
 File sharing would be easier. Version control would be harder.
 
+Question 6:
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Thoughts:
+When the changes are not official. Separate branch approach has the benefits to keep changes for future use, which master approach has the benefits to share the changes.
